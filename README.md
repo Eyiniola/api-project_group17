@@ -37,7 +37,9 @@ Dependencies
 
 Acknowledgement
 ==================
-Thank you (weather api guys) for providing the weather data. 
+Thank you (openweather api guys) for providing the weather data. 
+Link to our Demo video 
+https://www.loom.com/share/4f0aa6fdd1f549dbbf0073da3bec340e?sid=542631df-94b3-46ad-9657-87db2e43ba92
 
 
 
